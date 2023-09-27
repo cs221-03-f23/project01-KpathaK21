@@ -133,7 +133,7 @@ int main(int argc, const char **argv)
     }
     printf(password);
 
-    return 0;
+  return 0;
 }
             
 
